@@ -6,7 +6,7 @@ This is for more deep dive into git
 
 # Contributing
   - First you need to remembered is our project is using github flow.
-    - "feat" for adding new features.
+    - "feature" for adding new features.
     - "bugfix" for fixing bugs and errors.
     - "hotfix" for fixing errors or bugs in the production branch.
   - Last is you have to create the pull request before merge to the develp branch
